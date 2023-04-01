@@ -1,0 +1,15 @@
+export const items = [
+  { id: 1, color: "#F72585" },
+  { id: 2, color: "#B5179E" },
+  { id: 3, color: "#7209B7" },
+  { id: 4, color: "#560BAD" },
+  { id: 5, color: "#480CA8" },
+  { id: 6, color: "#3A0CA3" },
+  { id: 7, color: "#3F37C9" },
+  { id: 8, color: "#4361EE" },
+  { id: 9, color: "#4895EF" },
+  { id: 10, color: "#4CC9F0" },
+  { id: 11, color: "#F72585" },
+  { id: 12, color: "#B5179E" },
+  { id: 13, color: "#7209B7" },
+];
